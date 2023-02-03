@@ -25,7 +25,7 @@ class dogs {
   get url() {
     return this._url;
   }
-  get retunFishList() {
+  get retunDogList() {
     return `${this._id}) ${this._firstname} ${this._lastname}`;
   }
 }
