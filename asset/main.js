@@ -22,7 +22,7 @@ class dogs {
     return this._url;
   }
 
-  get retunDogList() {
+  get retunDogsList() {
     return `${this._id}) ${this._firstname} ${this._lastname}`;
   }
 }
